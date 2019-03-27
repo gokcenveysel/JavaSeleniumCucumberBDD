@@ -1,0 +1,8 @@
+Feature: BeinSport Test
+
+Scenario: BeinSport Test
+	Given user open browser
+	Then user click subscribe button
+	Then user on Package Page
+	Then user click Package subscribe button
+	Then user enter fname and lname and email and password and create an account
